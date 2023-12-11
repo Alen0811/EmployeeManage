@@ -1,0 +1,17 @@
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeServices.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeServices.pdb
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeManagerUtils.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\MySql.Data.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\System.Memory.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\System.Buffers.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeManagerUtils.pdb
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\MySql.Data.xml
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\obj\Debug\EmployeeServices.csproj.AssemblyReference.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\obj\Debug\EmployeeServices.csproj.CoreCompileInputs.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\obj\Debug\EmployeeServices.csproj.CopyComplete
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\obj\Debug\EmployeeServices.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\obj\Debug\EmployeeServices.pdb
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeModel.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeServices\bin\Debug\EmployeeModel.pdb

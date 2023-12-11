@@ -1,0 +1,13 @@
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\EmployeeManagerUtils.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\EmployeeManagerUtils.pdb
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\MySql.Data.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\System.Memory.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\System.Buffers.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\bin\Debug\MySql.Data.xml
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\obj\Debug\EmployeeManagerUtils.csproj.AssemblyReference.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\obj\Debug\EmployeeManagerUtils.csproj.CoreCompileInputs.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\obj\Debug\EmployeeManagerUtils.csproj.CopyComplete
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\obj\Debug\EmployeeManagerUtils.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeManagerUtils\obj\Debug\EmployeeManagerUtils.pdb

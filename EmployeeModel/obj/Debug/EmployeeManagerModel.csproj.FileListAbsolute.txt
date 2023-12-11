@@ -1,0 +1,6 @@
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\bin\Debug\EmployeeModel.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\bin\Debug\EmployeeModel.pdb
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\obj\Debug\EmployeeManagerModel.csproj.AssemblyReference.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\obj\Debug\EmployeeManagerModel.csproj.CoreCompileInputs.cache
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\obj\Debug\EmployeeModel.dll
+E:\C#\Day_02\EmployeeManagerUI\EmployeeModel\obj\Debug\EmployeeModel.pdb
